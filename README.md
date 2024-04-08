@@ -204,5 +204,167 @@ Para garantir a privacidade e a segurança dos dados dos usuários, adotamos uma
 
 Este compartilhamento de dados é uma peça fundamental no esforço contínuo para melhorar a qualidade dos serviços oferecidos, assegurando ao mesmo tempo a proteção da privacidade e a segurança das informações dos usuários.
 
+## 4. Compartilhamento de Dados
+
+### Finalidades do compartilhamento de dados
+
+O compartilhamento de dados com parceiros, como a POPSOLUTIONS, e outras entidades relevantes, é realizado sob rigorosos padrões éticos e legais. Este processo é essencial não apenas para a prestação de serviços de alta qualidade, mas também para garantir a segurança, a eficiência e a personalização da experiência do usuário. As finalidades específicas para o compartilhamento de dados incluem:
+
+#### 1. **Melhoria dos Serviços**
+Dados são compartilhados com o objetivo de analisar o uso dos serviços, identificar padrões de comportamento e necessidades dos usuários, permitindo a otimização e personalização dos serviços oferecidos.
+
+#### 2. **Suporte ao Cliente**
+Para oferecer suporte ao cliente eficiente e personalizado, compartilhamos dados que nos permitem resolver questões técnicas, responder a dúvidas e fornecer assistência de maneira mais direta e eficaz.
+
+#### 3. **Pesquisa e Desenvolvimento**
+Os dados são utilizados em pesquisas para desenvolver novas tecnologias, melhorar a infraestrutura existente e criar soluções inovadoras que atendam melhor às expectativas dos usuários.
+
+#### 4. **Segurança e Prevenção de Fraudes**
+O compartilhamento de dados é fundamental para identificar, prevenir e responder a ameaças de segurança, incluindo atividades fraudulentas e ataques cibernéticos, protegendo assim os usuários e a plataforma.
+
+#### 5. **Marketing e Comunicação**
+Com o consentimento do usuário, os dados podem ser utilizados para enviar informações personalizadas sobre novidades, ofertas especiais e outros conteúdos relevantes, visando enriquecer a experiência do usuário.
+
+#### 6. **Cumprimento de Obrigações Legais**
+Em determinadas situações, pode ser necessário compartilhar dados para cumprir com obrigações legais, regulamentações ou solicitações formais por parte de autoridades competentes.
+
+**Princípios Orientadores:**
+
+Para cada uma dessas finalidades, seguimos princípios orientadores que garantem a integridade, a confidencialidade e a segurança dos dados compartilhados:
+
+- **Transparência:** Mantemos uma política de transparência total sobre as finalidades do compartilhamento de dados, garantindo que os usuários estejam sempre informados.
+- **Minimização de Dados:** Limitamos o compartilhamento de dados ao estritamente necessário para atingir os objetivos específicos.
+- **Segurança:** Implementamos medidas de segurança avançadas para proteger os dados durante a transferência e no armazenamento.
+- **Consentimento:** Respeitamos a autonomia do usuário, garantindo que o compartilhamento de dados para fins de marketing e comunicação seja sempre baseado no consentimento explícito.
+
+**Referências Bibliográficas:**
+
+- **GDPR:** Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, sobre a proteção das pessoas físicas no que diz respeito ao processamento de dados pessoais e sobre a livre circulação desses dados.
+- **Lei Geral de Proteção de Dados (LGPD):** Lei nº 13.709, de 14 de agosto de 2018, que dispõe sobre a proteção de dados pessoais.
+
+Através dessas práticas, comprometemo-nos a manter um equilíbrio entre a oferta de serviços inovadores e personalizados e a proteção rigorosa da privacidade e dos dados dos usuários.
+
+
+## 5. Armazenamento e Segurança
+
+### Informações sobre onde e como os dados são armazenados
+
+A segurança e a integridade dos dados dos usuários são de extrema importância para nós. Para garantir que essas prioridades sejam atendidas, implementamos uma estratégia robusta de armazenamento e segurança, que inclui a utilização de múltiplos datacenters e sistemas avançados de backup e mitigação de ataques. Abaixo, detalhamos como essas operações são conduzidas:
+
+#### Localização dos Datacenters
+
+- **Brasil:** Operamos com três datacenters localizados estrategicamente em diferentes regiões do Brasil. Essa diversificação geográfica permite não apenas uma maior proximidade com nossos usuários, reduzindo a latência e melhorando a velocidade de acesso aos dados, mas também aumenta a redundância, assegurando a continuidade dos serviços em caso de falhas ou desastres naturais em uma localidade específica.
+
+- **Exterior:** Além dos datacenters no Brasil, contamos com dois sistemas no exterior dedicados especificamente à mitigação de ataques e ao backup de serviços essenciais. Esses sistemas estão localizados em jurisdições com rigorosas leis de proteção de dados, garantindo a segurança e a privacidade das informações armazenadas.
+
+#### Estratégias de Segurança e Backup
+
+- **Mitigação de Ataques:** Utilizamos tecnologias avançadas de detecção e mitigação de ataques, incluindo sistemas de prevenção de intrusão e soluções de Distributed Denial of Service (DDoS) protection. Isso garante que nossos serviços permaneçam acessíveis, mesmo diante de tentativas de ataques cibernéticos.
+
+- **Backups de Serviços Essenciais:** Implementamos uma política rigorosa de backups regulares, garantindo que cópias dos dados críticos sejam armazenadas de forma segura nos datacenters no exterior. Isso permite uma rápida recuperação dos dados em caso de qualquer incidente de perda de dados, minimizando o impacto sobre nossos usuários e serviços.
+
+- **Criptografia:** Todos os dados armazenados são criptografados, tanto em repouso quanto em trânsito, utilizando padrões de criptografia avançados. Isso assegura que, mesmo no improvável caso de acesso não autorizado, os dados permaneçam protegidos e indecifráveis.
+
+**Referências Bibliográficas:**
+
+- **Normas de Segurança:** Recomendações do National Institute of Standards and Technology (NIST) sobre criptografia e segurança de dados, NIST Special Publication 800-57.
+- **Leis de Proteção de Dados:** General Data Protection Regulation (GDPR) da União Europeia e a Lei Geral de Proteção de Dados (LGPD) do Brasil, que orientam nossas práticas de segurança de dados e privacidade.
+
+Nossa infraestrutura de armazenamento e as práticas de segurança são projetadas para oferecer a máxima proteção, garantindo a disponibilidade, integridade e confidencialidade dos dados dos usuários em todos os momentos.
+
+
+## 5. Armazenamento e Segurança
+
+### Medidas de segurança para proteger os dados pessoais
+
+Nossa abordagem para proteger os dados pessoais dos usuários é holística, abrangendo múltiplas camadas de medidas de segurança. Estas medidas são projetadas para proteger contra o acesso não autorizado, alteração, divulgação ou destruição de informações pessoais. A seguir, detalhamos as principais estratégias e tecnologias que implementamos para garantir a segurança dos dados:
+
+#### Criptografia de Dados
+
+- Utilizamos padrões de criptografia avançados para proteger os dados tanto em trânsito quanto em repouso. A criptografia em trânsito é assegurada por meio de protocolos seguros como TLS (Transport Layer Security), enquanto a criptografia em repouso é realizada através de algoritmos robustos para garantir que os dados armazenados sejam indecifráveis para não autorizados.
+
+#### Autenticação e Controle de Acesso
+
+- Implementamos políticas rigorosas de autenticação e controle de acesso. Isso inclui autenticação multifator (MFA), gerenciamento de identidade e acesso (IAM) e permissões baseadas em funções, garantindo que apenas usuários autorizados tenham acesso aos dados necessários para realizar suas funções.
+
+#### Monitoramento e Detecção de Ameaças
+
+- Nossos sistemas são monitorados continuamente para detectar e responder a atividades suspeitas. Utilizamos soluções de detecção de intrusão, análise de comportamento e outras tecnologias de segurança avançada para identificar potenciais ameaças à segurança dos dados.
+
+#### Gerenciamento de Vulnerabilidades
+
+- Realizamos avaliações regulares de vulnerabilidades e testes de penetração para identificar e corrigir possíveis falhas de segurança em nossos sistemas e aplicações. Isso garante uma postura proativa em relação à segurança e proteção dos dados.
+
+#### Educação e Treinamento em Segurança
+
+- Conscientizamos e treinamos regularmente nossa equipe sobre as melhores práticas de segurança da informação. Isso inclui treinamento sobre proteção de dados, conscientização sobre phishing e outras ameaças cibernéticas, garantindo que todos estejam equipados para proteger as informações dos usuários.
+
+#### Backups e Recuperação de Desastres
+
+- Mantemos backups regulares dos dados em locais seguros e geograficamente distribuídos, garantindo que possamos recuperar rapidamente as informações em caso de perda de dados ou desastres. Nossos planos de recuperação de desastres são testados regularmente para assegurar sua eficácia.
+
+**Referências Bibliográficas:**
+
+- National Institute of Standards and Technology (NIST). (2017). "Framework for Improving Critical Infrastructure Cybersecurity". NIST.
+- Europol. (2020). "Internet Organised Crime Threat Assessment (IOCTA)". Europol.
+
+Adotando estas medidas, nos comprometemos a manter a segurança e a privacidade dos dados pessoais dos usuários, conforme as mais rigorosas normas e regulamentos de proteção de dados, incluindo o GDPR e a LGPD.
+
+## 6. Direitos dos Usuários
+
+### [Descrição dos direitos dos usuários em relação aos seus dados](#61-descrição-dos-direitos-dos-usuários-em-relação-aos-seus-dados)
+
+Usuários têm direito ao acesso, correção, exclusão, e portabilidade de seus dados pessoais, bem como o direito de opor-se e restringir certos processamentos de seus dados.
+
+### [Como os usuários podem exercer seus direitos](#62-como-os-usuários-podem-exercer-seus-direitos)
+
+Para exercer seus direitos, os usuários devem entrar em contato com o responsável pela proteção de dados ou o departamento de privacidade através dos contatos fornecidos na seção de contato desta política.
+
+## 7. Uso de Cookies e Tecnologias Semelhantes
+
+### [Explicação de como cookies e tecnologias semelhantes são usados no site](#71-explicação-de-como-cookies-e-tecnologias-semelhantes-são-usados-no-site)
+
+Cookies e tecnologias semelhantes são utilizados para melhorar a experiência do usuário, analisar o tráfego do site, e personalizar conteúdo e anúncios.
+
+### [Informações sobre como os usuários podem gerenciar suas preferências de cookies](#72-informações-sobre-como-os-usuários-podem-gerenciar-suas-preferências-de-cookies)
+
+Usuários podem gerenciar suas preferências de cookies através das configurações do navegador, ou utilizando as ferramentas de preferência fornecidas no nosso site.
+
+## 8. Transferências Internacionais de Dados
+
+### [Informações sobre a transferência de dados pessoais para fora do país de origem do usuário](#81-informações-sobre-a-transferência-de-dados-pessoais-para-fora-do-país-de-origem-do-usuário)
+
+Dados pessoais podem ser transferidos para países fora do país de origem do usuário, onde as leis de proteção de dados podem ser diferentes. Asseguramos que tais transferências cumprem com a legislação aplicável e que os dados estão protegidos adequadamente.
+
+## 9. Alterações na Política de Privacidade
+
+### [Declaração sobre como as alterações à política serão comunicadas aos usuários](#91-declaração-sobre-como-as-alterações-à-política-serão-comunicadas-aos-usuários)
+
+Alterações nesta política serão comunicadas aos usuários com antecedência através de nosso site ou por e-mail, conforme aplicável.
+
+### [Instruções para que os usuários revisem periodicamente a política](#92-instruções-para-que-os-usuários-revisem-periodicamente-a-política)
+
+Encorajamos os usuários a revisarem periodicamente esta política para se manterem informados sobre como estamos protegendo seus dados.
+
+## 10. Contato
+
+### [Informações de contato para dúvidas sobre a política de privacidade](#101-informações-de-contato-para-dúvidas-sobre-a-política-de-privacidade)
+
+Para quaisquer dúvidas relacionadas à esta política de privacidade, por favor, entre em contato conosco através dos detalhes fornecidos abaixo.
+
+[CONTATO SYSADMIN](mailto:sysadmin@popsolutions.co)
+
+### [Dados de contato do encarregado de proteção de dados ou departamento responsável pela privacidade](#102-dados-de-contato-do-encarregado-de-proteção-de-dados-ou-departamento-responsável-pela-privacidade)
+
+Os contatos específicos do nosso encarregado de proteção de dados ou departamento responsável pela privacidade são fornecidos nesta seção.
+
+[CONTATO SUPPORT](mailto:support@popsolutions.co)
+
+
+## 11. Data de Vigência
+
+### [Data de início da vigência da política de privacidade](#111-data-de-início-da-vigência-da-política-de-privacidade)
+
+Esta política entra em vigor na data especificada no topo do documento.
 
 
